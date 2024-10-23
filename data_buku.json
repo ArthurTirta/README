@@ -1,0 +1,32 @@
+[
+    {
+        "Nama_dokumen": "Pesawat tempur",
+        "Tahun_terbit": 2025,
+        "Harga Dokumen": 1000000000,
+        "path_dok": "pdffile\\00001\\Pesawat tempur.pdf"
+    },
+    {
+        "Nama_dokumen": "modul kimia",
+        "Tahun_terbit": 2023,
+        "Harga Dokumen": 10000000,
+        "path_dok": "pdffile\\00002\\modul kimia.pdf"
+    },
+    {
+        "Nama_dokumen": "",
+        "Tahun_terbit": 2020,
+        "Harga Dokumen": 50000,
+        "path_dok": "pdffile\\00003\\.pdf"
+    },
+    {
+        "Nama_dokumen": "laprak",
+        "Tahun_terbit": 2020,
+        "Harga Dokumen": 30000,
+        "path_dok": "pdffile\\00004\\laprak.pdf"
+    },
+    {
+        "Nama_dokumen": "TOR EXPO ITK 2024",
+        "Tahun_terbit": 2023,
+        "Harga Dokumen": 90000,
+        "path_dok": "pdffile\\00005\\.pdf"
+    }
+]
